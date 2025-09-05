@@ -1,7 +1,7 @@
 
 # AI UNMUL
 
-Proyek ini menggunakan Laravel dan Livewire untuk membangun aplikasi web organiasi/himpunan Informatika, Fakultas Teknik, Universitas Mulawarman (UNMUL).
+Proyek ini menggunakan Laravel dan Livewire untuk membangun aplikasi web organisasi/himpunan Informatika, Fakultas Teknik, Universitas Mulawarman (UNMUL).
 
 ## Cara Install Laravel Livewire
 
