@@ -8,7 +8,7 @@
     <div class="container">
         <h1 class="display-4 mb-3">Prototype AI UNMUL</h1>
         <img src="" alt="">
-        <p class="lead mb-4">Kasih Bagoyang</p>
+        <p class="lead mb-4">Kasih Bagoyang Test</p>
         <a href="#" class="btn btn-neutral btn-lg">Get Started</a>
     </div>
 </div>  
