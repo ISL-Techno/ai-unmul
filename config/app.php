@@ -14,6 +14,10 @@ return [
     */
 
     'name' => env('APP_NAME', 'Laravel'),
+    'name_short' => env('APP_NAME_SHORT', 'AI'),
+    'name_alt' => env('APP_NAME_ALT', 'Himpunan Mahasiswa Informatika'),
+    'location' => env('APP_LOCATION', 'Universitas Mulawarman'),
+    'location_short' => env('APP_LOCATION_SHORT', 'Unmul'),
 
     /*
     |--------------------------------------------------------------------------
